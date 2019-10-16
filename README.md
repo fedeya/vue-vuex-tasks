@@ -1,4 +1,4 @@
-# ej-3
+# Vue Tasks
 
 ## Project setup
 ```
